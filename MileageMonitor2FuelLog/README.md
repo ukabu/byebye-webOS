@@ -22,6 +22,6 @@ Usage
 
 Run :
 
-	node convert.js [mileage-monitor-export.json]
+  node convert.js [mileage-monitor-export.json]
 
 The csv file for Fuel Log import will have the same name as the input file with ".csv" at the end.
