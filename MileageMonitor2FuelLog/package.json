@@ -1,0 +1,12 @@
+{
+  "author": "Emmanuel Pirsch <emmanuel@pirsch.org>",
+  "name": "MileageMonitor2FuelLog",
+  "description": "Conversion script for webOS Mileage Monitor to Android Fuel Log Pro.",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
